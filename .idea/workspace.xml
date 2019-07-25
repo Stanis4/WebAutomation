@@ -2,107 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c463b7d9-1d0e-4260-abe4-58d140a99b5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/061d0789-5590-490d-85fc-0e467adfd122-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/19697485-1301-4ece-9378-8ea0b979cf6e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2f82067f-62aa-40aa-b762-fadf566729bd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3406846c-c8b0-40fa-8b00-e41b8885f2ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3a85040e-8efd-4eb3-8ef1-00b4df6acb71-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3e4e3ac1-7616-4f30-914f-3f9702ce7b14-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/41daa633-ba1d-4804-b4e7-d6f8ac04f765-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4768e2c0-fcf4-45cf-9822-55277aca836e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4a4600b5-139a-4acb-8bd1-348e8d72754a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4d9f07c5-61dc-4627-b02f-5e14c9bd078c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/511a80c8-fd0c-49e2-b748-3e16cf731314-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/59e4dd6c-216a-4b01-9fca-0cd00169cdb7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5acbcb33-e48f-4961-a799-ca5364474c8c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5f22ea71-e2bf-4ec2-9ced-253c3a979459-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/613859d6-a040-4dcb-92b0-c73cb4830cc7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/69cda6cf-be94-43f6-8b82-8edf77b8d130-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6aead137-6d10-43c3-afaa-11ab89cf2a1c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6c1f84db-6dc2-4266-9fb5-279cf84e6f90-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6dbb823e-5dc7-473e-8a80-457e73c11bd4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6e911cb3-a659-42ea-ad93-dcab8171457a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/730a9a8a-5312-4529-9eaa-ffa79b647f09-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7d6b1d62-bc7b-43c8-8b33-301ff32a82ad-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8273661f-c85c-4c1e-bd0a-a4d17ec0998f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8c445261-4b0b-4172-b68a-fcb561f86d61-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8fc989ca-ed82-4e23-8ed3-22648b1fe621-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/93639d0e-027d-4330-b69b-694e50304fe0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/93a94bb7-3f5d-473b-a1bc-2130c90ee841-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9b97bfb2-7162-48e3-943f-1c94465a75dc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9bc5e093-194a-4fbb-b456-d51777d9b680-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a02016cf-434a-44b2-bb8d-75f5c8420f6c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ad9557cc-ffe0-4414-a34e-7a8d091362d4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/aea04126-951f-47c2-8365-7fd37ad54932-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b18155f8-606e-4edb-8f06-8a5f75c2104c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b45d2fb8-e00d-45d8-8a0a-ba633fd4e525-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c50795da-5381-437b-a718-e47a28517fbb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cafc95e2-c960-4f16-a9f7-cdfd14ab048a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d3c9d8f3-b100-42bf-b8e8-bf856aebb90a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dcfa02c1-e802-474b-b676-3d84a61b9228-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e60a88b6-85f6-4b55-94e7-085c2073deec-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ece3d70a-138a-41ba-bf79-ff63fc4e46e6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f6b17bbf-27e7-47ed-ae25-3a2b141c2dcd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f9aacb69-74fb-400d-b4a3-9809a902ebc6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fa95a729-f1ec-4ccb-9bfe-28f8b69f9483-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DOU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PG1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PG2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite1/Nopackage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite1/Nopackage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Apple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-DOU.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-TestClass.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/Web_automation.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/Nopackage.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite1/Nopackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite1/Nopackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite1/Nopackage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite1/Nopackage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Apple.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Apple.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -116,17 +25,31 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test1.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -137,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="34">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -146,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="357">
               <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -177,10 +100,10 @@
         <option value="$PROJECT_DIR$/src/main/java/PG2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/DOU.java" />
-        <option value="$PROJECT_DIR$/test1.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Apple.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/.gitignore" />
+        <option value="$PROJECT_DIR$/test1.xml" />
       </list>
     </option>
   </component>
@@ -211,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +177,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Apple">
+  <component name="RunManager" selected="TestNG.D:/Java/Java_HW/Web_automation/test1.xml">
     <configuration name="Apple" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Web_automation" />
       <option name="SUITE_NAME" value="" />
@@ -401,8 +324,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Apple" />
         <item itemvalue="TestNG.D:/Java/Java_HW/Web_automation/test1.xml" />
+        <item itemvalue="TestNG.Apple" />
         <item itemvalue="TestNG.TestClass.Test_method1" />
         <item itemvalue="TestNG.DOU.checkSalary" />
         <item itemvalue="TestNG.DOU" />
@@ -423,12 +346,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestClass_Test_method1 - 2019.07.23 at 20h 38m 24s.xml">
-      <configuration name="TestClass.Test_method1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestClass_Test_method1 - 2019.07.23 at 20h 39m 03s.xml">
-      <configuration name="TestClass.Test_method1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestClass_Test_method1 - 2019.07.23 at 20h 46m 33s.xml">
       <configuration name="TestClass.Test_method1" configurationId="TestNG" />
     </history-entry>
@@ -453,11 +370,46 @@
     <history-entry file="Apple - 2019.07.25 at 16h 40m 27s.xml">
       <configuration name="Apple" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.25 at 17h 02m 05s.xml">
+      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.25 at 17h 14m 09s.xml">
+      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34697217" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29623568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,20 +435,10 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ByID" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/PG2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/test1.xml" />
     <entry file="file://$PROJECT_DIR$/target/my.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
@@ -516,15 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-output/index.html" />
     <entry file="file://$PROJECT_DIR$/src/main/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -533,20 +466,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Web_automation.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="34">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -556,11 +484,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="357">
           <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PG2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
