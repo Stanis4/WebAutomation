@@ -1,3 +1,4 @@
+/*
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,8 +12,10 @@ import java.util.concurrent.TimeUnit;
 
 import org.testng.Assert;
 
+*/
 /*Напишите тест, который открывает страницу https://www.ukr.net/ и используя локаторы
-By id находит логин и пароль поля и вводит туда любой текст*/
+By id находит логин и пароль поля и вводит туда любой текст*//*
+
 public class PG1 {
     @Test
     public void checkUkrNet(){
@@ -198,3 +201,4 @@ public class PG1 {
 
 
 }
+*/
