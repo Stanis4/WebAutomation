@@ -4,6 +4,7 @@
     <test name="Nopackage" >
         <classes>
             <class name="Apple" />   <!--или classes -->
+            <class name="TestClass" />
         </classes>
     </test>
 </suite>
