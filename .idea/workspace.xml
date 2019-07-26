@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c463b7d9-1d0e-4260-abe4-58d140a99b5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-DOU.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-DOU.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-TestClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-TestClass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -30,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="102">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -42,8 +58,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+            <state relative-caret-position="153">
+              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DOU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            <state relative-caret-position="-306">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,8 +120,8 @@
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/DOU.java" />
         <option value="$PROJECT_DIR$/src/main/.gitignore" />
-        <option value="$PROJECT_DIR$/test1.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Apple.java" />
+        <option value="$PROJECT_DIR$/test1.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -94,16 +134,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="157" />
-    <option name="y" value="109" />
+    <option name="x" value="28" />
+    <option name="y" value="87" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
@@ -167,6 +200,9 @@
     <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\Java_HW\Web_automation\src\main" />
     </key>
@@ -206,23 +242,11 @@
     </configuration>
     <configuration name="DOU" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Web_automation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DOU" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DOU.checkSalary" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Web_automation" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DOU" />
-      <option name="METHOD_NAME" value="checkSalary" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -242,6 +266,26 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Web_automation" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -295,19 +339,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DOU" />
-      <item itemvalue="TestNG.DOU.checkSalary" />
       <item itemvalue="TestNG.D:/Java/Java_HW/Web_automation/test1.xml" />
       <item itemvalue="TestNG.TestClass.Test_method1" />
       <item itemvalue="TestNG.Apple" />
+      <item itemvalue="TestNG.TestClass" />
+      <item itemvalue="TestNG.DOU" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/Java/Java_HW/Web_automation/test1.xml" />
         <item itemvalue="TestNG.Apple" />
-        <item itemvalue="TestNG.TestClass.Test_method1" />
-        <item itemvalue="TestNG.DOU.checkSalary" />
         <item itemvalue="TestNG.DOU" />
+        <item itemvalue="TestNG.TestClass" />
+        <item itemvalue="TestNG.TestClass.Test_method1" />
       </list>
     </recent_temporary>
   </component>
@@ -322,37 +366,45 @@
       <option name="presentableId" value="Default" />
       <updated>1562084920760</updated>
     </task>
+    <task id="LOCAL-00001" summary="pom">
+      <created>1564146658823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564146658823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestClass_Test_method1 - 2019.07.23 at 20h 47m 02s.xml">
-      <configuration name="TestClass.Test_method1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestClass_Test_method1 - 2019.07.23 at 20h 50m 21s.xml">
-      <configuration name="TestClass.Test_method1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.23 at 20h 52m 09s.xml">
-      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Apple - 2019.07.25 at 15h 13m 59s.xml">
-      <configuration name="Apple" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Apple - 2019.07.25 at 15h 15m 13s.xml">
-      <configuration name="Apple" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.25 at 15h 16m 35s.xml">
-      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Apple - 2019.07.25 at 16h 40m 27s.xml">
-      <configuration name="Apple" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.25 at 17h 02m 05s.xml">
-      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.25 at 17h 14m 09s.xml">
-      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.25 at 17h 21m 25s.xml">
+      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.26 at 16h 12m 47s.xml">
+      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Apple - 2019.07.26 at 16h 21m 00s.xml">
+      <configuration name="Apple" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestClass - 2019.07.26 at 16h 21m 29s.xml">
+      <configuration name="TestClass" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DOU - 2019.07.26 at 16h 23m 04s.xml">
+      <configuration name="DOU" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Apple - 2019.07.26 at 16h 24m 09s.xml">
+      <configuration name="Apple" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.26 at 16h 24m 51s.xml">
+      <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Apple - 2019.07.26 at 16h 25m 13s.xml">
+      <configuration name="Apple" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Apple - 2019.07.26 at 16h 27m 36s.xml">
+      <configuration name="Apple" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Java_Java_HW_Web_automation_test1_xml - 2019.07.26 at 16h 32m 09s.xml">
       <configuration name="D:/Java/Java_HW/Web_automation/test1.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -360,7 +412,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +421,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34697217" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23895253" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +429,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29623568" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.24713585" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -388,7 +440,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,7 +449,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34697217" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34697217" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,7 +457,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29623568" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.24713585" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -415,6 +467,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ByID" />
@@ -427,13 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8726">
           <caret line="547" selection-start-line="547" selection-end-line="547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DOU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -455,6 +504,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Web_automation.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -465,13 +517,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_automation.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DOU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="130">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -480,8 +529,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="102">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -490,15 +549,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        <state relative-caret-position="153">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
         </state>
       </provider>
     </entry>

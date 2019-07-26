@@ -31,7 +31,7 @@
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
             <artifactId>allure-java-annotations</artifactId>
-            <version>1.4.7</version>
+            <version>1.4.8</version>
         </dependency>
 
     </dependencies>
@@ -44,6 +44,8 @@
                 <version>2.3.2</version>
                 <configuration>
                     <encoding>UTF-8</encoding>
+                    <!--<source>1.8</source>
+                    <target>1.8</target>-->
                 </configuration>
             </plugin>
             <plugin>
@@ -55,6 +57,7 @@
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                     </argLine>
                     <suiteXmlFiles>
+                        <!--suppress UnresolvedMavenProperty -->
                         <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
