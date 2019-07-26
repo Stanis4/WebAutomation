@@ -4,6 +4,7 @@
     <test name="Nopackage" >
         <classes>
             <class name="DOU"/>
+            <class name="Apple"/>
         </classes>
     </test>
 </suite>
