@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c463b7d9-1d0e-4260-abe4-58d140a99b5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DOU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DOU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PG1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PG1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/Web_automation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Apple.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Apple.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-DOU.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-DOU.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-TestClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-TestClass.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="85">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -48,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1090">
+            <state relative-caret-position="-478">
               <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -60,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+            <state relative-caret-position="464">
+              <caret line="58" column="33" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -69,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DOU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="20" column="83" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+            <state relative-caret-position="626">
+              <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="544">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,6 +82,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="cc4a53b2f90754d06a532b77e1b4631e74853a1f" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,10 +95,10 @@
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/test1.xml" />
         <option value="$PROJECT_DIR$/src/main/java/DOU.java" />
         <option value="$PROJECT_DIR$/src/main/java/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/PG1.java" />
+        <option value="$PROJECT_DIR$/test1.xml" />
       </list>
     </option>
   </component>
@@ -168,18 +154,6 @@
               <item name="Web_automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_automation" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,7 +389,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3453355" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45008183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DOU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="20" column="83" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+        <state relative-caret-position="626">
+          <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -523,7 +497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PG1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1090">
+        <state relative-caret-position="-478">
           <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -533,22 +507,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        <state relative-caret-position="464">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="544">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
